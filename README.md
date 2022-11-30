@@ -7,4 +7,14 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=KallXd&show_icons=true&include_all_commits=true)](https://github.com/KallXd/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KallXd&layout=compact)](https://github.com/KallXd/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALLXD&show_icons=true
+#INSTALL MODUL DULU 😈
+$pkg update && pkg upgrade
+$pkg install python
+$pip install rich
+$pip install requests
+$pip install stdiomask
+$pip install colorama
+$pip install futures
+$git clone 
+$cd
+$python
