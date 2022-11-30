@@ -1,4 +1,4 @@
-]Ku## Hey 👋, This is Kall xd
+## Hey 👋, This is Kall xd
 [![Gmail Badge](https://img.shields.io/badge/-roycal@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:roycal@gmail.com)](mailto:roycal@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Kallxd-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Kallxd/)](https://www.linkedin.com/in/Kallxd/) [![Github Badge](https://img.shields.io/badge/-KallXd-grey?style=flat&logo=github&logoColor=white&link=https://github.com/KallXd/)](https://www.github.com/KallXd/) [![Twitter Badge](https://img.shields.io/badge/-Kallxd-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Kallxd/)](https://www.twitter.com/Kallxd/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.Com/)](https://github.Com/) <p align='left'>Gk tau</p><p align='left'> You can view my resume <a href='https://mediafire.com ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
@@ -28,3 +28,9 @@ $git clone https://github.com/KALLXD/crack-ig
 $cd metainsta
 
 $python metainsta.py
+
+
+
+
+
+🤗THANKS TO KHAMIDI DEV PEMBUAT SC
