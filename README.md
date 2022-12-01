@@ -29,7 +29,8 @@ $cd metainsta
 
 $python metainsta.py
 
-
+## hasil mayan lah 🤗
+![IMG_20221201_072757](https://user-images.githubusercontent.com/119514868/204936982-33a92371-cd79-405a-9219-98f44edcc023.JPG)
 
 
 
